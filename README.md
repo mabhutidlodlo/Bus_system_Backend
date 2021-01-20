@@ -16,11 +16,11 @@ activate environment
 ### Run the project
 
 ```bash
-	$ git clone https://github.com/mabhutidlodlo/bus_system_backend.git
+  $ git clone https://github.com/mabhutidlodlo/bus_system_backend.git
 ```
 
 ```bash
-	$ cd bus_system_backend
+  $ cd bus_system_backend
 ```
 
 ```bash
@@ -28,6 +28,6 @@ activate environment
 ```
 
 ```bash
-	$ python3 manage.py runserver
+  $ python3 manage.py runserver
 ```
 
